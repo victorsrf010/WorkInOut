@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: system-ui;
+}
+
+.username {
+  background-color: rgb(61, 61, 61);
+  border-radius: 20px;
+  height: 40px;
+  width: 300px;
+  display: block;
+  margin: 0 auto; /* Center the element horizontally */
+  text-align: left; /* Align the text to the left */
+  padding-left: 10px; /* Add some left padding to the text */
+}
+
+.password {
+  background-color: rgb(61, 61, 61);
+  border-radius: 20px;
+  height: 40px;
+  width: 300px;
+  display: block;
+  margin: 0 auto; /* Center the element horizontally */
+  text-align: left; /* Align the text to the left */
+  padding-left: 10px; /* Add some left padding to the text */
+}
+
+
