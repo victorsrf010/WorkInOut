@@ -15,7 +15,7 @@ export class LoginPage implements OnInit {
     }
 
     toRegister() {
-      this.route.navigate(['/registo'])
+      this.route.navigate(['/register'])
     }
 
 
