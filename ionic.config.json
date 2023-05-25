@@ -1,0 +1,7 @@
+{
+  "name": "WorkInOut",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
