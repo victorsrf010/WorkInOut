@@ -11,7 +11,7 @@ export class LoginPage implements OnInit {
   constructor(private route: Router) { }
 
     toHome() {
-      this.route.navigate(['/home']);
+      this.route.navigate(['/tabs/home']);
     }
 
     toRegister() {
